@@ -25,6 +25,7 @@ The user may click on a city in the search history and be presented with current
 
 The following image shows the web application's appearance and functionality:
 
+[![Weather.png](https://i.postimg.cc/D0qY7y60/Weather.png)](https://postimg.cc/SYxGr4wb)
 
 ### Deployment:
 
