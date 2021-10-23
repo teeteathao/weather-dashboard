@@ -112,6 +112,7 @@ function searchAndGenerateWeather(city) {
           });
       });
   }
+  
   formEl.addEventListener("click", function (e) {
     e.preventDefault();
     var searchValue = inputEl.value.trim();
