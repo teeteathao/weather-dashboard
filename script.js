@@ -73,10 +73,10 @@ function searchAndGenerateWeather(city) {
   
             mainEl.append(cityWeatherList);
   
-            //--------------------------
-            // Forcast Section --------
+
+            // Forecast Section 
             var forecastTitle = document.createElement("h2");
-            forecastTitle.textContent = "5-day Forecast";
+            forecastTitle.textContent = "5-Day Forecast";
             forecast.append(forecastTitle);
   
             for (var i = 0; i < 5; i++) {
